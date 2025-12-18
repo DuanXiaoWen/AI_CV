@@ -1,0 +1,5 @@
+{
+  "name": "智简简历 (AI Resume Pro)",
+  "description": "基于 Gemini 多模态大模型的智能简历生成平台，支持从各种文档或图片模板中提取并生成专业简历。",
+  "requestFramePermissions": []
+}
